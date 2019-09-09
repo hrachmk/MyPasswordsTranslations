@@ -20,10 +20,10 @@
     <string name="password_strength_hint_strong">Strong!</string>
     <string name="password_strength_hint_very_strong">Very strong!</string>
     <string name="required">Required</string>
-    <string name="title">Title</string>
-    <string name="account">Account</string>
-    <string name="password">Password</string>
-    <string name="username">Username</string>
+    <string name="title">Անվանում</string>
+    <string name="account">Հաշիվ</string>
+    <string name="password">Գաղտնաբաը</string>
+    <string name="username">Մուտքանուն</string>
     <string name="website">Website</string>
     <string name="notes">Notes</string>
     <string name="list_is_empty">There are no entries</string>
